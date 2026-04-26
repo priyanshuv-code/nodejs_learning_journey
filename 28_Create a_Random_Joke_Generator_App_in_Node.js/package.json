@@ -1,0 +1,16 @@
+{
+  "name": "28_create-a_random_joke_generator_app_in_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "joke_generator.js",
+  "type": "module",
+  "scripts": {
+    "start": "node joke_generator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
